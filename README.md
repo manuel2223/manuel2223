@@ -29,10 +29,10 @@ Soy un apasionado por crear aplicaciones web escalables y eficientes. Me muevo c
 ---
 
 ### 🔭 Actualmente estoy trabajando en...
-- Un sistema de gestión para [Menciona tu proyecto actual].
-- Profundizando en arquitecturas basadas en microservicios.
+- Desarrollando una plataforma SaaS para clínicas de fisioterapia (NodeJs + React), enfocada en la gestión de citas y seguimiento mediante rutinas de ejercicios.
+- Profundizando en administración de bases de datos.
 
 ### 📫 Contáctame
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
-- [Portfolio](https://tu-portfolio.com)
-- 📧 tu-email@ejemplo.com
+- [LinkedIn](https://www.linkedin.com/in/manuel-saucedo-957786345/)
+<!-- - [Portfolio](https://tu-portfolio.com)-->
+- 📧 manuelsaucedogonzalez24@gmail.com
