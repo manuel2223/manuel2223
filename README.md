@@ -1,38 +1,62 @@
 # ¡Hola! Soy Manuel 👋
-### Desarrollador Web Full Stack | Django, React & Node.js
+### Estudiante de Ingeniería Informática | Desarrollador de Software
 
-Soy un apasionado por crear aplicaciones web escalables y eficientes. Me muevo con soltura tanto en entornos Python como en el ecosistema JavaScript, conectando backends robustos con interfaces modernas.
+Soy un apasionado de la tecnología con una visión integral: desde el **bajo nivel** y la optimización de recursos hasta el **desarrollo de productos web** modernos.
+
+Como futuro ingeniero, no solo escribo código, diseño soluciones. Combino la solidez teórica (C++, Java, Algoritmia) con la capacidad práctica de crear aplicaciones **Full Stack** escalables y profesionales utilizando **Django, React y Node.js**.
+
+Mis intereses van más allá de la interfaz: disfruto trabajando en el "backend profundo", construyendo **motores de búsqueda**, pipelines de datos (**ETL**) y arquitecturas eficientes.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologías que utilizo
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-**Backend:**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+**Lenguajes Core:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+**Desarrollo Web & Mobile:**
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-**Base de Datos:**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+**Datos & Ingeniería:**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Herramientas:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Pentaho](https://img.shields.io/badge/-Pentaho%20ETL-005A94?style=flat&logo=pentaho&logoColor=white)
 
 ---
 
-### 🔭 Actualmente estoy trabajando en...
-- Desarrollando una plataforma SaaS para clínicas de fisioterapia (NodeJs + React), enfocada en la gestión de citas y seguimiento mediante rutinas de ejercicios.
-- Profundizando en administración de bases de datos.
+### 🧠 Proyectos e Intereses Destacados
+
+🔹 **Motor de Búsqueda Completo (Python)**
+Desarrollo desde cero de un sistema de recuperación de información que incluye:
+* **Crawler:** Rastreo y descarga eficiente de documentos web.
+* **Indexador:** Procesamiento de texto y creación de índices invertidos.
+* **Buscador:** Algoritmo de ranking para consultas relevantes.
+
+🔹 **Plataforma de Gestión para Clínicas (NodeJs + React)**
+Aplicación SaaS full stack para la gestión administrativa de centros de fisioterapia.
+
+🔹 **Dashboard Académico – ETL + BI con Pentaho**
+Proyecto de minería y visualización de datos en la UCA:
+
+* ETL completo con Spoon
+* Métricas de duración, rendimiento y progresión académica
+* Cubo OLAP para análisis multidimensional
+* Dashboard interactivo con Pentaho Dashboard Visualizer
+
+---
+
+### 🔭 Actualmente...
+- 🎓 Cursando el Grado en **Ingeniería Informática**.
+- ⚙️ Profundizando en **Arquitectura de Software** y optimización de algoritmos.
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/manuel-saucedo-957786345/)
 <!-- - [Portfolio](https://tu-portfolio.com)-->
-- 📧 manuelsaucedogonzalez24@gmail.com
+- manuelsaucedogonzalez24@gmail.com
