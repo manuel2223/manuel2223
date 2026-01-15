@@ -58,5 +58,5 @@ Proyecto de minería y visualización de datos en la UCA:
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/manuel-saucedo-957786345/)
-<!-- - [Portfolio](https://tu-portfolio.com)-->
+- [Portfolio](https://portfolio-nine-tau-lqhpsidtt6.vercel.app/)
 - manuelsaucedogonzalez24@gmail.com
